@@ -1,7 +1,6 @@
-# calculadora
-Calculadora simples utilizando o **jQuery Mobile (JQM)**
+# Calculadora simples utilizando o jQuery Mobile (JQM)
 
-Demonstração: [CALCULADORA](https://doni7brandao.github.io/calculadora/)
+**Demonstração:** [CALCULADORA](https://doni7brandao.github.io/calculadora/)
 
 Aqui está uma maneira fácil de entender o projeto do jQuery Mobile (JQM), uma calculadora simples. O aplicativo inteiro consiste em uma única página e cerca de 200 linhas de código. Vamos começar nossa explicação com o Kernel que está perto do começo do arquivo app.js.
 
