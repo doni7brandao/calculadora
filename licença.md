@@ -1,7 +1,7 @@
 Termos da Licença (MIT)
 ========================
 
-Copyright © `<2018>` `<detentores de direitos autorais>`
+*Copyright©2018*
 
 A permissão é concedida, gratuitamente, a qualquer pessoa
 obter uma cópia deste software e documentação associada como
